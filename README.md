@@ -32,11 +32,7 @@ This repository hosts the project conducted as a research assistant at the Unive
 
 </div>
 
-<div style="flex: 0.5;">
-
 ![Cover Image](assets/images/CoverImage.png)
-
-</div>
 
 </div>
 
