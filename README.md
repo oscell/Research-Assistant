@@ -4,19 +4,11 @@ This repository hosts the project conducted as a research assistant at the Unive
 
 ## Table of Contents
 
-<style>
-    table {
-        width: 100%; /* or any other percentage or fixed value you want */
-    }
-</style>
-
-
-
-<div align=center width= 100%>
+<div align=center>
 
 | Overview | Nao6 |
 |:--------:|:----:|
-| <ul><li>[Overview](#overview)</li><li>[Useful Unreal Worlds](#useful-unreal-worlds)</li><li>[Rokoko Studio](#rokoko-studio)</li><ul><li>[Getting Started](#getting-started)</li><li>[Set Up Devices](#set-up-devices)</li><li>[Maintenance](#maintenance)</li></ul><li>[Unreal Engine](#unreal-engine)</li><ul><li>[Dependencies](#dependencies)</li><li>[Project Setup](#project-setup)</li><ul><li>[Metahumans](#metahumans)</li><li>[Mixamo Character](#mixamo-character)</li><li>[Embodying](#embodying-the-character)</li></ul><li>[Mixamo Pipeline](#mixamo-pipeline)</li><li>[Animating the Character](#animating-the-character)</li><li>[Embodying the Character](#embodying-the-character)</li></ul><li>[Live Link](#live-link)</li><li>[Virtual Reality](#virtual-reality)</li><li>[Exporting to Other Projects](#exporting-to-other-projects)</li><li>[Drift](#drift)</li><ul><li>[Object Tracker](#object-tracker)</li></ul><li>[Mirror](#mirror)</li></ul> | <img src=assets/images/CoverImage.png width=300> |
+| <ul><li>[Overview](#overview)</li><li>[Useful Unreal Worlds](#useful-unreal-worlds)</li><li>[Rokoko Studio](#rokoko-studio)</li><ul><li>[Getting Started](#getting-started)</li><li>[Set Up Devices](#set-up-devices)</li><li>[Maintenance](#maintenance)</li></ul><li>[Unreal Engine](#unreal-engine)</li><ul><li>[Dependencies](#dependencies)</li><li>[Project Setup](#project-setup)</li><ul><li>[Metahumans](#metahumans)</li><li>[Mixamo Character](#mixamo-character)</li><li>[Embodying](#embodying-the-character)</li></ul><li>[Mixamo Pipeline](#mixamo-pipeline)</li><li>[Animating the Character](#animating-the-character)</li><li>[Embodying the Character](#embodying-the-character)</li></ul><li>[Live Link](#live-link)</li><li>[Virtual Reality](#virtual-reality)</li><li>[Exporting to Other Projects](#exporting-to-other-projects)</li><li>[Drift](#drift)</li><ul><li>[Object Tracker](#object-tracker)</li></ul><li>[Mirror](#mirror)</li></ul> | <img src=assets/images/CoverImage.png width=200> |
 
 </div>
 
