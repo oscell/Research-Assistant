@@ -6,7 +6,6 @@ This repository hosts the project conducted as a research assistant at the Unive
 
 <div align="center" style="display: flex;">
 
-<div style="flex: 0.5; padding-right: 20px;">
 
 - [Overview](#overview)
 - [Useful Unreal Worlds](#useful-unreal-worlds)
@@ -30,7 +29,6 @@ This repository hosts the project conducted as a research assistant at the Unive
   - [Object Tracker](#object-tracker)
 - [Mirror](#mirror)
 
-</div>
 
 <img src=assets/images/CoverImage.png width=10>
 
