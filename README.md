@@ -202,3 +202,10 @@ To get the mirror working the project settings need to be changed to ensure the 
 The material is simple, set to the following:
 
 <img src="assets/images/Mirror Settings.png" width="300">
+
+
+<style>
+    table {
+        width: 100%; /* or any other percentage or fixed value you want */
+    }
+</style>
