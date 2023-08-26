@@ -4,7 +4,7 @@ This repository hosts the project conducted as a research assistant at the Unive
 
 ## Table of Contents
 
-<div align="center" style="display: flex; justify-content: center;">
+<div align="center" style="display: flex;">
 
 <div style="flex: 0.5; padding-right: 20px;">
 
