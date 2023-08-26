@@ -136,7 +136,7 @@ The following steps will describe how to use any character from Mixamo to live-l
 <img src="assets/images/Skeletal Mesh.png" width="300">
 
 3. In the event Graph construct the following:
-<img src="assets/images/Event Graph.png" width="600">
+<img src="assets/images/Event Graph.png" width="700">
 
     The cast should be set to the anim Blueprint you created previously
 
@@ -152,11 +152,11 @@ The following steps will describe how to use any character from Mixamo to live-l
 
 4. Set the skeletal mesh asset to the skeletal mesh of the character.
 
-    <img src="assets/images/Pawn.png" width="600">
+    <img src="assets/images/Pawn.png" width="800">
 
 5. Go to the even graph and add to the end of the “Event BeginPlay”:
 
-    <img src="assets/images/Adjusted Event Graph.png" width="600">
+    <img src="assets/images/Adjusted Event Graph.png" width="900">
 
     **Note:** The first node should cast to the anim blueprint that you just created.
 
@@ -207,7 +207,7 @@ It will create a CSV file each day and append all the data collected that day to
 
 Below is a a simple plot demonstrating the tracked object from the Tracking world.
 
-<img src="assets/images/TrackingDrift.png" width="600">
+<img src="assets/images/TrackingDrift.png" width="800">
 
 ## Mirror
 
