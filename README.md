@@ -125,7 +125,7 @@ The following steps will describe how to use any character from Mixamo to live-l
 <img src="assets/images/Variables.png" width="430">
 
 12. Add the following elements to the AnimGraph:
-<img src="assets/images/Anim Graph.png" width="400">
+<img src="assets/images/Anim Graph.png" width="600">
 
 13. Compile this then set the “Rokoko Bone Map” to “MixamoCharacter_Bonemap” and compile and save again.
 
@@ -220,5 +220,3 @@ To get the mirror working the project settings need to be changed to ensure the 
 The material is simple, set to the following:
 
 <img src="assets/images/Mirror Settings.png" width="300">
-
-
