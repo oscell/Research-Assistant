@@ -5,9 +5,11 @@ This repository hosts the project conducted as a research assistant at the Unive
 ## Table of Contents
 
 <style>
+
     table {
         width: 100%; /* or any other percentage or fixed value you want */
     }
+    
 </style>
 
 <div align=center>
