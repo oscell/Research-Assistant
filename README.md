@@ -4,8 +4,9 @@ This repository hosts the project conducted as a research assistant at the Unive
 
 ## Table of Contents
 
-<div align="center" style="display: flex;">
+<div style="display: flex; justify-content: space-between; align-items: start;">
 
+<div>
 
 - [Overview](#overview)
 - [Useful Unreal Worlds](#useful-unreal-worlds)
@@ -29,11 +30,13 @@ This repository hosts the project conducted as a research assistant at the Unive
   - [Object Tracker](#object-tracker)
 - [Mirror](#mirror)
 
-
-<img src=assets/images/CoverImage.png width=10>
-
 </div>
 
+<div>
+<img src=assets/images/CoverImage.png width=200>
+</div>
+
+</div>
 
 ### Useful Unreal Worlds
 
