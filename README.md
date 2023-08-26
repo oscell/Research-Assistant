@@ -1,6 +1,9 @@
 # Rokoko VR Simulation for Embodiment Measurement
 
-This repository hosts the project conducted as a research assistant at the University of Glasgow under [Dr. Mathieu Chollet](https://matchollet.github.io/). The main objective was to create a VR simulation using the [Rokoko Smartsuit Pro II](https://www.rokoko.com/products/smartsuit-pro) and [Unreal Engine 5](https://www.unrealengine.com/en-US/unreal-engine-5) to measure the degree of embodiment.
+
+|Overview|Nao6|
+|:-:|:-:|
+|<div align="left">This repository hosts the project conducted as a research assistant at the University of Glasgow under [Dr. Mathieu Chollet](https://matchollet.github.io/). The main objective was to create a VR simulation using the [Rokoko Smartsuit Pro II](https://www.rokoko.com/products/smartsuit-pro) and [Unreal Engine 5](https://www.unrealengine.com/en-US/unreal-engine-5) to measure the degree of embodiment.</div>|![Cover](assets/images/CoverImage.png)|
 ## Table of Contents
 
 1. [Overview](#overview)
