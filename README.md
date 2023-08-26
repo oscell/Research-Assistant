@@ -4,6 +4,12 @@ This repository hosts the project conducted as a research assistant at the Unive
 
 ## Table of Contents
 
+<style>
+    table {
+        width: 100%; /* or any other percentage or fixed value you want */
+    }
+</style>
+
 <div align=center>
 
 | Overview | Nao6 |
@@ -204,8 +210,3 @@ The material is simple, set to the following:
 <img src="assets/images/Mirror Settings.png" width="300">
 
 
-<style>
-    table {
-        width: 100%; /* or any other percentage or fixed value you want */
-    }
-</style>
