@@ -103,7 +103,7 @@ The following steps will describe how to use any character from Mixamo to live-l
 3. In the “Animation tab” choose the T-Pose as this will allow rokoko to map the animations correctly.
 
 4. Download.
-<img src="assets/images/Download Settings.png" width="400">
+<img src="assets/images/Download Settings.png" width="520">
 
 5. Open the folder called “MixamoPipeline”.
 
@@ -112,7 +112,7 @@ The following steps will describe how to use any character from Mixamo to live-l
     - The Skeleton mesh is set to “None”
     - "Use T0 As Ref Pose" is checked
     - "Import Morph Targets" is checked
-<img src="assets/images/Import Settings.png" width="300">
+<img src="assets/images/Import Settings.png" width="370">
 
 
 8. Import all.
@@ -122,10 +122,10 @@ The following steps will describe how to use any character from Mixamo to live-l
 10. Right-click on the skeleton and “create > anim Blueprint” and open it.
 
 11. Add 2 variables, “Rokoko Actor Name” and “Rokoko Bone Map” of types “Name” and “Rokoko Body Map Data > Class Reference” types respectively.
-<img src="assets/images/Variables.png" width="400">
+<img src="assets/images/Variables.png" width="430">
 
 12. Add the following elements to the AnimGraph:
-<img src="assets/images/Anim Graph.png" width="300">
+<img src="assets/images/Anim Graph.png" width="400">
 
 13. Compile this then set the “Rokoko Bone Map” to “MixamoCharacter_Bonemap” and compile and save again.
 
@@ -136,7 +136,7 @@ The following steps will describe how to use any character from Mixamo to live-l
 <img src="assets/images/Skeletal Mesh.png" width="300">
 
 3. In the event Graph construct the following:
-<img src="assets/images/Event Graph.png" width="400">
+<img src="assets/images/Event Graph.png" width="600">
 
     The cast should be set to the anim Blueprint you created previously
 
@@ -152,11 +152,11 @@ The following steps will describe how to use any character from Mixamo to live-l
 
 4. Set the skeletal mesh asset to the skeletal mesh of the character.
 
-    <img src="assets/images/Pawn.png" width="300">
+    <img src="assets/images/Pawn.png" width="600">
 
 5. Go to the even graph and add to the end of the “Event BeginPlay”:
 
-    <img src="assets/images/Adjusted Event Graph.png" width="400">
+    <img src="assets/images/Adjusted Event Graph.png" width="600">
 
     **Note:** The first node should cast to the anim blueprint that you just created.
 
@@ -170,11 +170,11 @@ In Rokoko studio, open a scene. In the Livestream tab, open the Unreal setting, 
 
 The Rokoko receiver should have the same port number.
 
-<img src="assets/images/Rokoko Reciever.png" width="400">
+<img src="assets/images/Rokoko Reciever.png" width="430">
 
 Once ports are correct, in unreal engine, go to *“Window > Virtual production > Live Link”* then in the Livelink *“+ source > Rokoko Studio Source”*
 
-<img src="assets/images/LiveLink.png" width="400">
+<img src="assets/images/LiveLink.png" width="500">
 
 Remember that the name used in rokoko studio should match the one set in the [Mixamo pipeline](#embodying-the-character).
 
@@ -184,11 +184,11 @@ This project was designed specifically for use with the [Vive headset](https://w
 
 ## Exporting to Other Projects
 
-The best way to transfer assets from one project to another is to Migrate a folder. 
+The best way to transfer assets from one project to another is to Migrate a folder.
 
 **Note:** This must be exported to another “content” folder.
 
-<img src="assets/images/Migrate.png" width="400">
+<img src="assets/images/Migrate.png" width="600">
 
 ## Drift
 
@@ -207,7 +207,7 @@ It will create a CSV file each day and append all the data collected that day to
 
 Below is a a simple plot demonstrating the tracked object from the Tracking world.
 
-<img src="assets/images/TrackingDrift.png" width="400">
+<img src="assets/images/TrackingDrift.png" width="600">
 
 ## Mirror
 
