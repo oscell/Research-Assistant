@@ -4,13 +4,42 @@ This repository hosts the project conducted as a research assistant at the Unive
 
 ## Table of Contents
 
-<div align=center>
+<div align="center" style="display: flex; justify-content: center;">
 
-| Overview | Nao6 |
-|:--------:|:----:|
-| <ul><li>[Overview](#overview)</li><li>[Useful Unreal Worlds](#useful-unreal-worlds)</li><li>[Rokoko Studio](#rokoko-studio)</li><ul><li>[Getting Started](#getting-started)</li><li>[Set Up Devices](#set-up-devices)</li><li>[Maintenance](#maintenance)</li></ul><li>[Unreal Engine](#unreal-engine)</li><ul><li>[Dependencies](#dependencies)</li><li>[Project Setup](#project-setup)</li><ul><li>[Metahumans](#metahumans)</li><li>[Mixamo Character](#mixamo-character)</li><li>[Embodying](#embodying-the-character)</li></ul><li>[Mixamo Pipeline](#mixamo-pipeline)</li><li>[Animating the Character](#animating-the-character)</li><li>[Embodying the Character](#embodying-the-character)</li></ul><li>[Live Link](#live-link)</li><li>[Virtual Reality](#virtual-reality)</li><li>[Exporting to Other Projects](#exporting-to-other-projects)</li><li>[Drift](#drift)</li><ul><li>[Object Tracker](#object-tracker)</li></ul><li>[Mirror](#mirror)</li></ul> | <img src=assets/images/CoverImage.png width=200> |
+<div style="flex: 1; padding-right: 20px;">
+
+- [Overview](#overview)
+- [Useful Unreal Worlds](#useful-unreal-worlds)
+- [Rokoko Studio](#rokoko-studio)
+  - [Getting Started](#getting-started)
+  - [Set Up Devices](#set-up-devices)
+  - [Maintenance](#maintenance)
+- [Unreal Engine](#unreal-engine)
+  - [Dependencies](#dependencies)
+  - [Project Setup](#project-setup)
+    - [Metahumans](#metahumans)
+    - [Mixamo Character](#mixamo-character)
+    - [Embodying](#embodying-the-character)
+  - [Mixamo Pipeline](#mixamo-pipeline)
+  - [Animating the Character](#animating-the-character)
+  - [Embodying the Character](#embodying-the-character)
+- [Live Link](#live-link)
+- [Virtual Reality](#virtual-reality)
+- [Exporting to Other Projects](#exporting-to-other-projects)
+- [Drift](#drift)
+  - [Object Tracker](#object-tracker)
+- [Mirror](#mirror)
 
 </div>
+
+<div style="flex: 1;">
+
+![Nao6](assets/images/CoverImage.png)
+
+</div>
+
+</div>
+
 
 ### Useful Unreal Worlds
 
